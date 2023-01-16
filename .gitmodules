@@ -1,0 +1,3 @@
+[submodule "GeneticAlgorithmicLib"]
+	path = GeneticAlgorithmicLib
+	url = https://github.com/MattiasKockum/GeneticAlgorithmicLib
